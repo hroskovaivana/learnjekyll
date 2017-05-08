@@ -10,10 +10,10 @@
 }
 
 .content {
-	float: left;
+	float: right;
 	width: 75%;
 	border-left: solid;
-	padding-left: 30px;
+	padding-left: 20px;
 }
 
 nav {

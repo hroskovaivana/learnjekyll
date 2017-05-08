@@ -3,7 +3,7 @@ layout: page
 title: Home
 ---
 
-Cílová skupina: Lidé se zájmem o válečnou tématiku 
+#Cílová skupina: Lidé se zájmem o válečnou tématiku 
 
 Cíle: Budeme společnými silami snažit blíže seznámit veřejnost s touto konkrétní historickou událostí, jejími okolnostmi a dopady. Naše snažení se zaměří také na rozebírání souvisejících témat jako je například otázka vlastenectví, odboje nebo i odsunu němců. V neposlední řadě máme v plánu zkoumat literaturu, která bude blízká tématu našeho projektu.
 

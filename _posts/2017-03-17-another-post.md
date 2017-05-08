@@ -7,8 +7,7 @@ tags:
     - data
 ---
 
-This is just another post. See how to include data inside your posts:
-
+tohalhahisaiuiaehia
 ## Beatles Discography
 
 <ul>

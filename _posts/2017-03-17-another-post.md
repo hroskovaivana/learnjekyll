@@ -18,6 +18,11 @@ V květnu roku 1942 byl uskutečněn atentát na zastupujícího říšského pr
  
 Karel Čurda získal půl milionu říšských za poskytnutí informací vedoucích k dopadení pachatelů. Po skončení války byl v roce 1947 popraven za vlastizradu.
 
+ODKAZY:
+
+http://www.vhu.cz/karel-curda-aneb-osudne-selhani-ceskoslovenske-zpravodajske-sluzby/
+
+http://www.rozhlas.cz/plus/jaktobylo/_zprava/je-karel-curda-symbolem-zrady--1572790
 
 <ul>
 {% for album in site.data.beatles %}
